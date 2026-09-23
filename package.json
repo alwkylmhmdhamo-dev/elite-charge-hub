@@ -4,7 +4,7 @@
   "description": "متجر شحن رقمي احترافي وآمن",
   "main": "index.js",
   "scripts": {
-    "dev": "echo 'Development mode',
+    "dev": "echo 'Development mode'",
     "build": "echo 'Building project'"
   },
   "keywords": ["charge", "digital", "payment"],
